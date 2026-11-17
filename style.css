@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(58, 175, 169);
+    color: blanchedalmond;
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    font-size: 16px;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a {
+    color: rgb(197, 80, 68
+    );
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
